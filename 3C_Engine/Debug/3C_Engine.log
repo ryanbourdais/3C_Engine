@@ -1,3 +1,10 @@
 ﻿  3C_Engine.cpp
-C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(29,47): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(87,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(162,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(162,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(161,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(161,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(160,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(160,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bourdais\source\repos\3C_Engine\3C_Engine\3C_Engine.cpp(174,47): warning C4390: ';': empty controlled statement found; is this the intent?
   3C_Engine.vcxproj -> C:\Users\Bourdais\source\repos\3C_Engine\Debug\3C_Engine.exe
